@@ -1,0 +1,47 @@
+[
+  {
+    "Student": "Романенко Віталій",
+    "Marks": [
+      {
+        "Subject": "Дискретна Математика",
+        "Mark": 4,
+        "MarkType": "MKP"
+      },
+      {
+        "Subject": "Веб Розробка",
+        "Mark": 3,
+        "MarkType": "Exam"
+      }
+    ]
+  },
+  {
+    "Student": "Білогірський Максим",
+    "Marks": [
+      {
+        "Subject": "Веб Розробка",
+        "Mark": 5,
+        "MarkType": "HW"
+      },
+      {
+        "Subject": "Системи Штучного Інтелекту",
+        "Mark": 2,
+        "MarkType": "MKP"
+      }
+    ]
+  },
+  {
+    "Student": "Білик Галина",
+    "Marks": [
+      {
+        "Subject": "Дискретна Математика",
+        "Mark": 3,
+        "MarkType": "CP"
+      },
+      {
+        "Subject": "Системи Штучного Інтелекту",
+        "Mark": 5,
+        "MarkType": "Exam"
+      }
+    ]
+  }
+]
